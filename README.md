@@ -6,6 +6,8 @@
 <p>At the moment:</p>
 <p>- A wizard</p>
 <p>- A Paladin</p>
+<p>- A mutant</p>
+<p>- A random female</p>
 <br>
 <hr>
 <br>
