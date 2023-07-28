@@ -3,11 +3,14 @@
 <br>
 <hr>
 <br>
+<img src="https://github.com/RaiderKnight/RK-UEBS-Mods/blob/main/RKUEBS2700CS.gif" />
 <p>At the moment:</p>
 <p>- A wizard</p>
 <p>- A Paladin</p>
 <p>- A mutant</p>
 <p>- A random female</p>
+<p>- A bdsm alien</p>
+<p>- A naked female</p>
 <br>
 <hr>
 <br>
